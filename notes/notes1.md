@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: notes
 type: "Undergraduate course"
-permalink: /notes/notes1
+permalink: /notes/
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
