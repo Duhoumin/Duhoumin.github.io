@@ -9,4 +9,5 @@ main:
   - title: "Book Review"
     url: /book_review/    
     
-
+  - title: "Collected Papers"
+    url: /collected_papers/   
