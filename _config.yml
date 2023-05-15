@@ -199,6 +199,10 @@ collections:
   book_review:
     output: true
     permalink: /:collection/:path/
+    
+  collected_papers:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -281,6 +285,15 @@ defaults:
   - scope:
       path: ""
       type: book_review
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
+  - scope:
+      path: ""
+      type: collected_papers
     values:
       layout: single
       author_profile: true
