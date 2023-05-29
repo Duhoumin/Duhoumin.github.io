@@ -9,6 +9,7 @@
 
 
 <table><tr><td bgcolor=orange>Kondo Breakdown </td></tr></table>
+
 1.[Phys. Rev. B 69, 035111(2004) slave-particle mean-field theory](https://doi.org/10.1103/PhysRevB.69.035111)
 
 2.[Phys. Rev. Lett. 98, 026402(2007)](https://doi.org/10.1103/PhysRevLett.98.026402)
