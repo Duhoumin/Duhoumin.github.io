@@ -7,6 +7,11 @@
 1.[Phys. Rev. Lett. 47, 737(1981)](https://doi.org/10.1103/PhysRevLett.47.737)
 
 
+<table><tr><td bgcolor=orange>Heavy Fermions</td></tr></table>
+
+Review:The Kondo problem to heavy fermions, ch. 9, ch. 10(Cambridge university press, 1997),[Heavy Fermions: electrons at the edge of
+magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley, New York, 2007).](https://www.physics.rutgers.edu/~coleman/682A/electrons_on_the_brink.pdf)
+
 
 <table><tr><td bgcolor=orange>Kondo Breakdown </td></tr></table>
 
