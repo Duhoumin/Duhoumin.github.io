@@ -4,12 +4,12 @@
 
 <table><tr><td bgcolor=orange> Two-Impurity Kondo Problem </td></tr></table>
 
-1.[Phys. Rev. Lett. 47, 737(1981)](https://doi.org/10.1103/PhysRevLett.47.737)
+Perturbation Renormalization: [Phys. Rev. Lett. 47, 737(1981)](https://doi.org/10.1103/PhysRevLett.47.737)
 
 
 <table><tr><td bgcolor=orange>Heavy Fermions</td></tr></table>
 
-Review:The Kondo problem to heavy fermions, ch. 9, ch. 10(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
+Review: The Kondo problem to heavy fermions, ch. 9, ch. 10(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
 magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley, New York, 2007)](https://www.physics.rutgers.edu/~coleman/682A/electrons_on_the_brink.pdf)
 
 
@@ -25,7 +25,7 @@ Fluctuations Incorporated: [Phys. Rev. Lett. 98, 026402(2007)](https://doi.org/1
 , [Phys. Rev. B 83, 235107(2011)](https://doi.org/10.1103/PhysRevB.83.235107)
 , [Phys. Rev. Lett. 110, 066402(2013)](https://doi.org/10.1103/PhysRevLett.110.066402)
 
-Schwinger Boson:[Phys. Rev. Lett. 120, 157206(2018)](https://doi.org/10.1103/PhysRevLett.120.157206)
+Schwinger Boson: [Phys. Rev. Lett. 120, 157206(2018)](https://doi.org/10.1103/PhysRevLett.120.157206)
 , [Phys. Rev. Lett. 122, 217001(2019)](https://doi.org/10.1103/PhysRevLett.122.217001)
 
 
