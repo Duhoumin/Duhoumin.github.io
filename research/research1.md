@@ -1,6 +1,9 @@
 ---
  permalink: /research/
 ---
+The following are the references collected in my research.
+
+
 <table><tr><td bgcolor=orange>Quantum Phase Transitions</td></tr></table>
 
 [Phys. Rev. B 14, 1165(1976) A. J. Hertz](https://doi.org/10.1103/PhysRevB.14.1165), [Phys. Rev. B 48, 7183(1993) A. J. Millis](https://doi.org/10.1103/PhysRevB.48.7183), Quantum Phase Transitions, (Cambridge university press, 2011)
