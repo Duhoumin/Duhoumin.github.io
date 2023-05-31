@@ -1,6 +1,12 @@
 ---
  permalink: /research/
 ---
+<table><tr><td bgcolor=orange>Quantum Phase Transitions</td></tr></table>
+
+[Phys. Rev. B 14, 1165(1976) A. J. Hertz](https://doi.org/10.1103/PhysRevB.14.1165), [Phys. Rev. B 48, 7183(1993) A. J. Millis](https://doi.org/10.1103/PhysRevB.48.7183), Quantum Phase Transitions, (Cambridge university press, 2011)
+
+
+
 
 <table><tr><td bgcolor=orange> Two-Impurity Kondo Problem </td></tr></table>
 
