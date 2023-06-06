@@ -22,6 +22,12 @@ Review: The Kondo problem to heavy fermions, ch. 9, ch. 10(Cambridge university 
 magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley, New York, 2007)](https://www.physics.rutgers.edu/~coleman/682A/electrons_on_the_brink.pdf)
 
 
+
+<table><tr><td bgcolor=orange>Heavy-fermion superconductivity</td></tr></table>
+
+Review: [重费米子超导与竞争序](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.64.217401), [重费米子超导理论和材料研究进展](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.70.20201418)
+
+
 <table><tr><td bgcolor=orange>Kondo Breakdown </td></tr></table>
 
 Review: [J Low Temp Phys 161, 203–232 (2010)](https://doi.org/10.1007/s10909-010-0206-3)
