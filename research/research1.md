@@ -25,12 +25,12 @@ magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley,
 
 <table><tr><td bgcolor=orange>Heavy-fermion superconductivity</td></tr></table>
 
-Review: [重费米子超导与竞争序](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.64.217401), [重费米子超导理论和材料研究进展](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.70.20201418)
+Review: [重费米子超导与竞争序(2015)](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.64.217401), [重费米子超导理论和材料研究进展(2021)](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.70.20201418)
 
 
 <table><tr><td bgcolor=orange>Kondo Breakdown </td></tr></table>
 
-Review: [J Low Temp Phys 161, 203–232 (2010)](https://doi.org/10.1007/s10909-010-0206-3)
+Review: [J Low Temp Phys 161, 203–232(2010)](https://doi.org/10.1007/s10909-010-0206-3)
 
 Slave-Particle Mean-Field Theory: [Phys. Rev. B 69, 035111(2004)](https://doi.org/10.1103/PhysRevB.69.035111)
 
