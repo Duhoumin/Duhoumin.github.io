@@ -27,7 +27,7 @@ magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley,
 
 Review: [重费米子超导与竞争序(2015)](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.64.217401), [重费米子超导理论和材料研究进展(2021)](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.70.20201418)
 
-$\ce{UTe2}$
+Triplet Superconductivity(Theory): [Phys. Rev. Lett. 130, 136002(2023)](https://doi.org/10.1103/PhysRevLett.130.136002)
 
 
 <table><tr><td bgcolor=orange>Kondo Breakdown </td></tr></table>
