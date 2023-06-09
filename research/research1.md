@@ -6,7 +6,7 @@ The following are the references collected in my research.
 
 <table><tr><td bgcolor=orange>Quantum Phase Transitions</td></tr></table>
 
-[Phys. Rev. B 14, 1165(1976) A. J. Hertz](https://doi.org/10.1103/PhysRevB.14.1165), [Phys. Rev. B 48, 7183(1993) A. J. Millis](https://doi.org/10.1103/PhysRevB.48.7183), Quantum Phase Transitions, (Cambridge university press, 2011)
+[Phys. Rev. B 14, 1165(1976) A. J. Hertz](https://doi.org/10.1103/PhysRevB.14.1165), [Phys. Rev. B 48, 7183(1993) A. J. Millis](https://doi.org/10.1103/PhysRevB.48.7183), Quantum Phase Transitions(Cambridge university press, 2011)
 
 
 
@@ -18,7 +18,7 @@ Perturbation Renormalization: [Phys. Rev. Lett. 47, 737(1981)](https://doi.org/1
 
 <table><tr><td bgcolor=orange>Heavy Fermions</td></tr></table>
 
-Review: The Kondo problem to heavy fermions, ch. 9, ch. 10(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
+Review: The Kondo problem to heavy fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
 magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley, New York, 2007)](https://www.physics.rutgers.edu/~coleman/682A/electrons_on_the_brink.pdf)
 
 
@@ -26,6 +26,8 @@ magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley,
 <table><tr><td bgcolor=orange>Heavy-fermion superconductivity</td></tr></table>
 
 Review: [重费米子超导与竞争序(2015)](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.64.217401), [重费米子超导理论和材料研究进展(2021)](https://wulixb.iphy.ac.cn/cn/article/doi/10.7498/aps.70.20201418)
+
+$\ce{UTe2}$
 
 
 <table><tr><td bgcolor=orange>Kondo Breakdown </td></tr></table>
