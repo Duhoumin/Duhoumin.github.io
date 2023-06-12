@@ -13,8 +13,9 @@ The following are the references collected in my research.
 
 <table><tr><td bgcolor=orange> Two-Impurity Kondo Problem </td></tr></table>
 
-Perturbation Renormalization: [Phys. Rev. Lett. 47, 737(1981)](https://doi.org/10.1103/PhysRevLett.47.737)
+Perturbation Renormalization Scaling(Effective Hamiltonian): [Phys. Rev. Lett. 47, 737(1981)](https://doi.org/10.1103/PhysRevLett.47.737), [Phys. Rev. Lett. 62, 1701(1989)](https://doi.org/10.1103/PhysRevLett.62.1701)
 
+Numerical Renormalization Group: [Phys. Rev. Lett. 61, 125(1988)](https://doi.org/10.1103/PhysRevLett.61.125)
 
 <table><tr><td bgcolor=orange>Heavy-Fermion Systems</td></tr></table>
 
