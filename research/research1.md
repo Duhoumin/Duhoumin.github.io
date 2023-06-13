@@ -19,6 +19,8 @@ Numerical Renormalization Group: [Phys. Rev. Lett. 61, 125(1988)](https://doi.or
 
 Equations of Motion: [J. Phys.: Condens. Matter 5 4035(1993)](https://iopscience.iop.org/article/10.1088/0953-8984/5/24/005/meta)
 
+Non-Crossing Approximation: [Physica B 165&166 405-406(1990)](https://doi.org/10.1016/S0921-4526(90)81052-P)
+
 <table><tr><td bgcolor=orange>Heavy-Fermion Systems</td></tr></table>
 
 Review: The Kondo problem to heavy fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
