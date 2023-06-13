@@ -23,6 +23,8 @@ Non-Crossing Approximation: [Physica B 165&166 405-406(1990)](https://doi.org/10
 
 Exact Diagonalization: [J. Phys. Soc. Japan 60 29(1991)](https://doi.org/10.1143/JPSJ.60.29)
 
+Variational Wave Function: [Prog. Theor. Phys. 87.2.331(1992)](https://doi.org/10.1143/ptp/87.2.331)
+
 <table><tr><td bgcolor=orange>Heavy-Fermion Systems</td></tr></table>
 
 Review: The Kondo problem to heavy fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
