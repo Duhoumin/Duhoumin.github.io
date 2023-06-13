@@ -21,6 +21,8 @@ Equations of Motion: [J. Phys.: Condens. Matter 5 4035(1993)](https://iopscience
 
 Non-Crossing Approximation: [Physica B 165&166 405-406(1990)](https://doi.org/10.1016/S0921-4526(90)81052-P)
 
+Exact Diagonalization: [J. Phys. Soc. Japan 60 29(1991)](https://doi.org/10.1143/JPSJ.60.29)
+
 <table><tr><td bgcolor=orange>Heavy-Fermion Systems</td></tr></table>
 
 Review: The Kondo problem to heavy fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
