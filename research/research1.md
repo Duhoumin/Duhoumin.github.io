@@ -27,7 +27,7 @@ Variational Wave Function: [Prog. Theor. Phys. 87.2.331(1992)](https://doi.org/1
 
 <table><tr><td bgcolor=orange>Heavy-Fermion Systems</td></tr></table>
 
-Review: The Kondo problem to heavy fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
+Review: The Kondo Problem to Heavy Fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
 magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley, New York, 2007)](https://www.physics.rutgers.edu/~coleman/682A/electrons_on_the_brink.pdf)
 
 
