@@ -282,23 +282,7 @@ defaults:
       comment: true
 
 
-  - scope:
-      path: ""
-      type: book_review
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-      
-  - scope:
-      path: ""
-      type: collected_papers
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+
 
 
 
