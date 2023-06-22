@@ -1,5 +1,5 @@
 ---
- permalink: /research/
+ permalink: /notes/
 ---
 
 
