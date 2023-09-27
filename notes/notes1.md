@@ -13,7 +13,8 @@ The following are my reading notes.(In the update.)
 
 
 -------------------------------------------------
-1.[Fourier Transformation](../assets/Fourier_Transformation.pdf)
+1.[Fourier transformation](../assets/Fourier_Transformation.pdf)
+2.[The integrals about Fermi surface](../assets/The integrals about Fermi surface.pdf)
 
 
 
