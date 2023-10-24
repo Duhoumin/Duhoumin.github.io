@@ -30,7 +30,7 @@ Variational Wave Function: [Prog. Theor. Phys. 87.2.331(1992)](https://doi.org/1
 Review: The Kondo Problem to Heavy Fermions(Cambridge university press, 1997), [Heavy Fermions: electrons at the edge of
 magnetism. Handbook of Magnetism and Advanced Magnetic Materials, Vol. 1 (Wiley, New York, 2007)](https://www.physics.rutgers.edu/~coleman/682A/electrons_on_the_brink.pdf)
 
-
+Fermi Surface: [Phys. Rev. Lett. 84, 3370(2000)](https://doi.org/10.1103/PhysRevLett.84.3370)
 
 <table><tr><td bgcolor=orange>Heavy-Fermion Superconductivity</td></tr></table>
 
