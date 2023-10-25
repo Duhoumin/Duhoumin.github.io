@@ -17,7 +17,9 @@ The following are my reading notes.(In the update.)
 
 2.[The integrals about Fermi surface](../assets/The_integrals_about_Fermi_surface.pdf)
 
+3.[Calculation of pair bubble](../assets/pair_bubble.pdf)
 
+4.[Scattering amplitude of Kondo model](../assets/scattering_amplitude.pdf)
 
 
 
