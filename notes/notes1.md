@@ -21,6 +21,8 @@ The following are my reading notes.(In the update.)
 
 4.[Scattering amplitude of Kondo model](../assets/scattering_amplitude.pdf)
 
+5.[Some notes on Green functions](../assets/Green_function.pdf)
+
 
 
 
