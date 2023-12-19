@@ -23,7 +23,7 @@ The following are my reading notes.(In the update.)
 
 5.[Some notes on Green functions](../assets/Green_function.pdf)
 
-
+6.[Crystal Momentum and Effective mass](../assets/Crystal_Momentum_and_Effective_mass.pdf)
 
 
 
