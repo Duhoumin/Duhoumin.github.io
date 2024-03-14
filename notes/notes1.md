@@ -25,5 +25,5 @@ The following are my reading notes.(In the update.)
 
 6.[Crystal Momentum and Effective mass](../assets/Crystal_Momentum_and_Effective_mass.pdf)
 
-
+7.[Exact Diagonalization](../assets/Lanczos.pdf)
 
