@@ -27,3 +27,9 @@ The following are my reading notes.(In the update.)
 
 7.[Exact Diagonalization](../assets/Lanczos.pdf)
 
+8.[Electron and Hole pockets](../assets/electron_hole_pockets.pdf)
+
+
+
+
+
