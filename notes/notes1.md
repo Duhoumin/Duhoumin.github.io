@@ -15,7 +15,7 @@ The following are my reading notes.(In the update.)
 -------------------------------------------------
 1.[Fourier Transformation](../assets/Fourier_Transformation.pdf)
 
-2.[The Integrals about Fermi Surface](../assets/The_integrals_about_Fermi_surface.pdf)
+2.[The Integrals about Fermi Surface](../assets/FS.pdf)
 
 3.[Calculation of Pair Bubble](../assets/pair_bubble.pdf)
 
