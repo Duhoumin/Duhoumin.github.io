@@ -13,23 +13,23 @@ The following are my reading notes.(In the update.)
 
 
 -------------------------------------------------
-1.[Fourier transformation](../assets/Fourier_Transformation.pdf)
+1.[Fourier Transformation](../assets/Fourier_Transformation.pdf)
 
-2.[The integrals about Fermi surface](../assets/The_integrals_about_Fermi_surface.pdf)
+2.[The Integrals about Fermi Surface](../assets/The_integrals_about_Fermi_surface.pdf)
 
-3.[Calculation of pair bubble](../assets/pair_bubble.pdf)
+3.[Calculation of Pair Bubble](../assets/pair_bubble.pdf)
 
-4.[Scattering amplitude of Kondo model](../assets/scattering_amplitude.pdf)
+4.[Scattering Amplitude of Kondo Model](../assets/scattering_amplitude.pdf)
 
-5.[Some notes on Green functions](../assets/Green_function.pdf)
+5.[Some Notes on Green functions](../assets/Green_function.pdf)
 
-6.[Crystal Momentum and Effective mass](../assets/Crystal_Momentum_and_Effective_mass.pdf)
+6.[Crystal Momentum and Effective Mass](../assets/Crystal_Momentum_and_Effective_mass.pdf)
 
 7.[Exact Diagonalization](../assets/Lanczos.pdf)
 
-8.[Electron and Hole pockets](../assets/electron_hole_pockets.pdf)
+8.[Electron and Hole Pockets](../assets/electron_hole_pockets.pdf)
 
-
+9.[Superconductor Energy Equations](../assets/gap.pdf)
 
 
 
