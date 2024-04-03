@@ -21,7 +21,7 @@ The following are my reading notes.(In the update.)
 
 4.[Scattering Amplitude of Kondo Model](../assets/scattering_amplitude.pdf)
 
-5.[Some Notes on Green functions](../assets/Green_function.pdf)
+5.[Some Notes on Green Functions](../assets/Green_function.pdf)
 
 6.[Crystal Momentum and Effective Mass](../assets/Crystal_Momentum_and_Effective_mass.pdf)
 
