@@ -13,15 +13,15 @@ The following are my reading notes.(In the update.)
 
 
 -------------------------------------------------
-1.[Fourier Transformation](../assets/Fourier_Transformation.pdf)
+1.[The Fourier Transformation](../assets/Fourier_Transformation.pdf)
 
-2.[The Integrals about Fermi Surface](../assets/FS.pdf)
+2.[Integrals about the Fermi Surface](../assets/FS.pdf)
 
-3.[Calculation of Pair Bubble](../assets/pair_bubble.pdf)
+3.[Calculation of a Pair Bubble](../assets/pair_bubble.pdf)
 
-4.[Scattering Amplitude of Kondo Model](../assets/scattering_amplitude.pdf)
+4.[Scattering Amplitude of the Kondo Model](../assets/scattering_amplitude.pdf)
 
-5.[Some Notes on Green Functions](../assets/Green_function.pdf)
+5.[Some Notes on Green Function](../assets/Green_function.pdf)
 
 6.[Crystal Momentum and Effective Mass](../assets/Crystal_Momentum_and_Effective_mass.pdf)
 
