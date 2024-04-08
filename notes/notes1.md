@@ -29,7 +29,7 @@ The following are my reading notes.(In the update.)
 
 8.[Electron and Hole Pockets](../assets/electron_hole_pockets.pdf)
 
-9.[Superconductor Energy Equations](../assets/gap.pdf)
+9.[Superconductor Gap Equations](../assets/gap.pdf)
 
 
 
